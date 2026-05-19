@@ -1,0 +1,5 @@
+print("Tuple contains integer, string and float")
+
+
+myTuple=(17,"ABC",54.9)
+print(myTuple)

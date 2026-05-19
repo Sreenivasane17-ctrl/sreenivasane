@@ -1,0 +1,4 @@
+print("The second element of tuple")
+
+mynumber=(12,23,34,45,56)
+print(mynumber[1])
